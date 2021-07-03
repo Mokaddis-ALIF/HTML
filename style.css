@@ -1,0 +1,29 @@
+body{color: #1B2631;}
+h1,h2{
+	text-transform: uppercase;
+}
+a{color: white
+text-decoration:none;}
+header{
+	background-image: url("freels-9-firm-innerspring-mattress.jpg");
+	background-color: #38373b;
+	text-align: center;
+	padding: 5px;
+	height: 450px;
+	background-size: cover;
+
+}
+.logo{
+	padding: 5px;
+	width: 120px;
+	height: 50px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+.test{text-align: center;}
+.rev{text-align: center;
+	float: 0 auto;
+	display: inline-block;
+height: 350px;
+width: 250px;}
